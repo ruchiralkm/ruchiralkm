@@ -1,3 +1,4 @@
+![logo](https://github.com/ruchiralkm/ruchiralkm/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ruchira Kaluarachchi</h1>
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
 <img align="right" width = "400" src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
