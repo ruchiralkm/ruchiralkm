@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchira Kaluarachchi</h1>
-<h3 align="center">A passionate fI am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.rontend developer from India</h3>
+<h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
 <img align="right" width = "400" src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchiralkm&label=Profile%20views&color=0e75b6&style=flat" alt="ruchiralkm" /> </p>
