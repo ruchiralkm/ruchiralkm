@@ -8,6 +8,9 @@
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchiralkm&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
+<!-- custom button image -->
+<!-- <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50"> -->
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
