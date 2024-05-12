@@ -6,7 +6,31 @@
 </p>
 
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
-- 💌 gmail ruchiralkm@gmail.com
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Software Engineering**
+
+- 🧑‍🎓 I’m an Undergraduate at **ESOFT**
+
+- 💬 Ask me about **IT related things**
+
+- 📫 How to reach me **ruchiralkm@gmail.com**
+  
+- 🌍 Portfolio **ruchiralk.netlify.app/**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
