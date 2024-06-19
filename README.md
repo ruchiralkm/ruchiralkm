@@ -7,6 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer...;Software+Developer...;Front-End+Developer...;Love+to+learn+new+stuffs...;"></a>
 </p>
 
+
 <!-------- About -------->
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchiralkm&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
