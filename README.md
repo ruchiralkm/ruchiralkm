@@ -8,9 +8,8 @@
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchiralkm&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<!-- custom button image -->
-<!-- <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50"> -->
 
+<!------------- Table --------->
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -28,7 +27,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 
   
   </td>
@@ -36,10 +35,7 @@
 </table>
 
 
----
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
+<!------------- Profile Status --------->
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
@@ -53,11 +49,13 @@
 <br>
 <br>
 
-
+<!------------- 🏆 GitHub Trophies --------->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruchiralkm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 ---
+<!------------- Connect with me --------->
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="www.linkedin.com/in/ruchira-kaluarachchi" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
@@ -66,12 +64,14 @@
 </p>
 
 ---
-<h3 align="center">Languages and Tools:</h3>
+<!------------- Languages and Tools --------->
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 ---
+<!------------- SNAKE --------->
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
