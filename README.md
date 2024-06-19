@@ -2,7 +2,7 @@
 <h1 align="center">- I'm Ruchira Kaluarachchi -</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student...;Software+Designer...;Software+Developer...;Software+Engineer...;Love+to+learn+new+stuffs...;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer...;Software+Developer...;Front-End+Developer...;Love+to+learn+new+stuffs...;"></a>
 </p>
 
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
