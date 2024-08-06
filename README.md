@@ -93,9 +93,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> <!--- Python --->
 </p>
 
-<!-------------Tools --------->
+<!-------------Tools & Others--------->
 <h3 align="center">Tools</h3>
 <p align="center">
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Light.svg" alt="vite" width="40" height="40"/> </a> <!--- Vite --->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <!--- Figma --->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/></a> <!--- Arduino --->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <!--- Illustrator --->
