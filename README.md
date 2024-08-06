@@ -75,8 +75,8 @@
 </p>
 
 ---
-<!------------- Languages --------->
-<h3 align="center">Languages</h3>
+<!------------- Languages and Frameworks--------->
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <!--- HTML --->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <!--- CSS --->
