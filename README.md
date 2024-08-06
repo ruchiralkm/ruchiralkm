@@ -94,7 +94,7 @@
 </p>
 
 <!-------------Tools & Others--------->
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools & Others</h3>
 <p align="center">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Light.svg" alt="vite" width="40" height="40"/> </a> <!--- Vite --->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <!--- Figma --->
