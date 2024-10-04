@@ -32,7 +32,7 @@
 
 - 💌 How to reach me **ruchiralkm@gmail.com**
   
-- 🌍 Portfolio **https://ruchiralk.netlify.app/**
+- 🌍 Portfolio **https://ruchiralk.me/**
 
 </td>
 <td width="50%" align="center">
