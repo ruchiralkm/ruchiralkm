@@ -2,7 +2,7 @@
 <!-------- Image and Name-------->
 <p align="center"><picture align="center"><img align="center" src = "https://raw.githubusercontent.com/DevZenMaster/DevZenMaster/34a1603e2a1ec3f038aee7e08279bc4878077d87/assets/Bottom_up.svg"></picture></p>
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
-<h1 align="center">- I'm Ruchira Kaluarachchi -</h1>
+<h1 align="center"> I'm Ruchira Kaluarachchi </h1>
 
 
 <!-------- Typing Effect -------->
