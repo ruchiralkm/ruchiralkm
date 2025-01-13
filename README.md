@@ -46,11 +46,11 @@
 
 
 <!------------- Profile Status --------->
-
 <!--- stats & Trophy (start) -->
+<!------------
 <h3 align="center">My Statistics</h3>
 <p align="center">
-  <!--- stats (start) -->
+ 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -63,6 +63,7 @@
   </td>
 </tr>
 </table>
+--------->
 <!--- stats (end) -->
 
 
