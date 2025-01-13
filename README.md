@@ -13,9 +13,6 @@
 </p>
 
 
-
-
-
 <!-------- About -------->
 <h3 align="center">I am studying software engineering and exploring new technologies to build innovative solutions that can make a difference in the world.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchiralkm&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
@@ -49,6 +46,27 @@
 
 
 <!------------- Profile Status --------->
+
+<!--- stats & Trophy (start) -->
+<h3 align="center">My Statistics</h3>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ruchiralkm&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ruchiralkm&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+<!----
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
@@ -57,17 +75,19 @@
 </a>
 
 </div>
-
-<br>
-<br>
+--->
 <br>
 
 <!------------- 🏆 GitHub Trophies --------->
+<!------------
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruchiralkm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---------->
 
 
----
+<hr/>
+
+
 <!------------- Connect with me --------->
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -77,7 +97,9 @@
 <a href="https://instagram.com/ruchira_kaluarachchi_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a> -->
 </p>
 
----
+
+
+
 <!------------- Languages, Frameworks Databases, others--------->
 <h3 align="center"> Frameworks & Libraries</h3>
 <p align="center">
