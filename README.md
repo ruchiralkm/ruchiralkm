@@ -72,38 +72,46 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ruchira-kaluarachchi" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://www.ruchiralk.me/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Emojione1_1F30D.svg/1200px-Emojione1_1F30D.svg.png" alt="kaveendinethma" height="50" width="50" /></a>
 <!-- <a href="https://www.facebook.com/ruchira.kaluarachchi.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://instagram.com/ruchira_kaluarachchi_" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a> -->
 </p>
 
 ---
-<!------------- Languages and Frameworks--------->
-<h3 align="center">Languages & Frameworks</h3>
+<!------------- Languages, Frameworks Databases, others--------->
+<h3 align="center"> Frameworks & Libraries</h3>
+<p align="center">
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> <!--- React --->
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ruchiralkm/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Angular-Light.svg" alt="react" width="40" height="40"/> </a> <!--- Angular--->
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ruchiralkm/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Light.svg" alt="react" width="40" height="40"/> </a> <!--- Vue --->
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ruchiralkm/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="react" width="40" height="40"/> </a> <!--- Node --->
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ruchiralkm/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Light.svg" alt="react" width="40" height="40"/> </a> <!--- express --->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="40" height="40"/> </a> <!--- Tailwindcss --->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <!--- Bootstrap --->
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" alt="SCSS" width="40" height="40"/> </a> <!--- SCSS --->  
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ruchiralkm/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" alt="react" width="40" height="40"/> </a> <!--- MongoDB --->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mssql" width="40" height="40"/> </a> <!--- MySQL --->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ruchiralkm/Small-Testing/blob/main/AI%20Subject/sql-server-icon-png-11352.png" alt="mysql" width="40" height="40"/> </a> <!--- MSSQL --->
+</p>
+
+<h3 align="center">Languages & Others</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <!--- HTML --->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <!--- CSS --->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <!--- JavaScript --->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <!--- Bootstrap --->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="40" height="40"/> </a> <!--- Tailwindcss --->
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" alt="SCSS" width="40" height="40"/> </a> <!--- SCSS --->
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> <!--- React --->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> </a> <!--- C# --->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <!--- Java --->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mssql" width="40" height="40"/> </a> <!--- MySQL --->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ruchiralkm/Small-Testing/blob/main/AI%20Subject/sql-server-icon-png-11352.png" alt="mysql" width="40" height="40"/> </a> <!--- MSSQL --->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> <!--- PHP --->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> <!--- Python --->
-</p>
-
-<!-------------Tools & Others--------->
-<h3 align="center">Tools & Others</h3>
-<p align="center">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Light.svg" alt="vite" width="40" height="40"/> </a> <!--- Vite --->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <!--- Figma --->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/></a> <!--- Arduino --->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <!--- Illustrator --->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <!--- Photoshop --->
 </p>
+
 
 
 ---
