@@ -122,7 +122,7 @@
 <span href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ruchiralkm/Small-Testing/blob/main/AI%20Subject/sql-server-icon-png-11352.png" alt="mysql" width="40" height="40"/> </span> <!--- MSSQL --->
 </p>
 
-<h3 align="center">Languages & Others</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
 <span align="center">
 <span href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </span> <!--- HTML --->
